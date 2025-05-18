@@ -1,0 +1,5 @@
+First, run refresh1.py with your own spotify client id and client secret from the spotify dev portal. Ensure that you set the redirect URI on the dev portal to include 127.0.0.1:8080/callback as to avoid an error. When you run the script, you will most likely see "This site can’t be reached. 127.0.0.1 refused to connect." That's not an issue - in fact, it's what we want. Take the current URL and paste it into notepad or something where you can read it easily. Copy all the text after ```http://127.0.0.1:8000/callback?code=```. What you see there is the code for refresh2.py. In the file, paste it in for the code variable, and fill in your client ID and client secret variables again. Then, run refresh2.py. You'll recieve a response that looks like this:
+
+```{'access_token': 'THIS_WILL_BE_YOUR_ACCESS_TOKEN', 'token_type': 'Bearer', 'expires_in': 3600, 'refresh_token': 'THIS_IS_YOUR_REFRESH_TOKEN', 'scope': 'user-modify-playback-state user-read-playback-state user-read-currently-playing'}```
+
+And that's all for getting the credentials! Now head on back to the main README.md for the rest of the instructions.

@@ -1,0 +1,1 @@
+Use Thonny to flash the files in this folder to your Xiao. You can find good instructions online.
