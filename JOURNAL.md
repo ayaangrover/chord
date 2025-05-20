@@ -1,4 +1,10 @@
-# Journal 
+---
+title: "Chord"
+author: "Ayaan Grover(@ayaangrover)"
+description: "A spotify carthing replacement for my desk!"
+created_at: "2025-05-20"
+---
+
 
 ## Total 19 hrs + 2hrs writing the journal logs
 
