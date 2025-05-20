@@ -6,9 +6,9 @@ created_at: "2025-05-20"
 ---
 
 
-## Total 19 hrs + 2hrs writing the journal logs
+## Total 19 hrs + 1hrs writing the journal logs
 
-## May 15, 2025 - 8 hours
+## May 15, 2025 - 8 hours - did a ton of research and a bunch of planning
 
 Saw the Highway info today. It looked awesome, so I spent a long time planning and researching for my first project. Here was my thought process today.
 
@@ -27,11 +27,11 @@ In the end, I settled on [this](https://www.seeedstudio.com/Seeed-Studio-Round-D
 
 Do I regret not choosing [this 1.69 inch rounded color lcd](https://www.seeedstudio.com/1-69inch-240-280-Resolution-IPS-LCD-Display-Module-p-5755.html) instead, since it has no exposed pins? Yeah. But i kinda like the fully round display which looks like a fake nest thermostat.
 
-## May 16, 2025 - 1.5 hours
+## May 16, 2025 - 1.5 hours - did some research and wiring!
 
 I just did a bunch of research on the docs of the xiao and display. Then i made a wiring diagram(in figma ofc lol). I also asked gpt to help me make sure i wasnt missing any parts for the project. i have a small list now, and i think im ready to do the code tomorrow!
 
-## May 17, 2025 - 9.5 hours
+## May 17, 2025 - 9.5 hours - Finished project!
 
 Wow I did so much work today. I finished the whole project(i know, im already done!!!). Took a long time - a bit of thinking, a lot of doing stuff.
 
