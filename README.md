@@ -25,4 +25,19 @@ First, go to /spotify_auth/README.md and follow the instructions. Then, go to /f
 
 The case is a modified version of the suggested stl from Seeed Studio for their display that fits a battery as well. Use the modified stl from `/case` if you are adding a battery.
 
-You can see a render at /images/case.png
+Here's a render: 
+
+![image](https://github.com/user-attachments/assets/19601237-b4f0-4e8e-8f17-1486e2370bd5)
+
+You can get a copy at /images/case.png
+
+## Wiring:
+
+Wiring is pretty simple, you can simply click in the xiao(usb c port facing out like shown below):
+![image](https://github.com/user-attachments/assets/c8c7c203-fe67-4b02-bc18-e2d8e1f764fa)
+
+and the white connector clicks into the battery or you can put a coin cell. Here's a more complex and slightly messy diagram of the full wiring:
+
+![Frame 1](https://github.com/user-attachments/assets/c199023e-a1a3-4aab-b12f-c448b089078a)
+
+All the images are available at /images.
