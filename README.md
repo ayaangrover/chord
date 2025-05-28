@@ -1,6 +1,6 @@
 # Chord: A Spotify Car Thing Replacement.
 
-##### Chord is a spotify carthing replacement(without the controls). It's powered by a Seeed Studio Xiao ESP32S3 and the display is Seeed Studio's "Round Display for Seeed Studio XIAO". It fetches the song name, artist, and cover via the spotify developer api with the Xiao ESP32S3's 2.4ghz wifi, which is very convienient seeing as the xiao itself is only $7.99.(more about that in the BOM below). You can also get instructions to compile the code for it below, and enjoy! (Note: the software might not work yet, i don't have the microcontroller to test it on. I'll write more when i've tested and possibly fixed it.)
+#### Chord is a spotify carthing replacement(without the controls). It's powered by a Seeed Studio Xiao ESP32S3 and the display is Seeed Studio's "Round Display for Seeed Studio XIAO". It fetches the song name, artist, and cover via the spotify developer api with the Xiao ESP32S3's 2.4ghz wifi, which is very convienient seeing as the xiao itself is only $7.99.(more about that in the BOM below). You can also get instructions to compile the code for it below, and enjoy! (Note: the software might not work yet, i don't have the microcontroller to test it on. I'll write more when i've tested and possibly fixed it.)
 
 ## BOM:
 
@@ -36,7 +36,11 @@ You can get a copy at /images/case.png
 Wiring is pretty simple, you can simply click in the xiao(usb c port facing out like shown below):
 ![image](https://github.com/user-attachments/assets/c8c7c203-fe67-4b02-bc18-e2d8e1f764fa)
 
-and the white connector clicks into the battery or you can put a coin cell. Here's a more complex and slightly messy diagram of the full wiring:
+and the white connector clicks into the battery or you can put a coin cell. Here's an image of how the connection works: 
+![image](https://github.com/user-attachments/assets/9ea33d04-5ac8-4413-bc07-409de245aff0)
+
+
+And lastly, here's a more complex and slightly messy diagram of the full wiring:
 
 ![Frame 1](https://github.com/user-attachments/assets/c199023e-a1a3-4aab-b12f-c448b089078a)
 
