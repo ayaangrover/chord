@@ -10,11 +10,11 @@ Note: BOM is also available at bom.csv.
 |-------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------|
 | **Seeed Studio XIAO ESP32S3** | 1        | Wi-Fi microcontroller, runs the firmware                                                                                                                        | $12.50 (incl. tax/shipping, from seeed studio, using WELCOME5 discount) | backbone of the project - uses micropython to run the code
 | **Seeed Studio Round Display**| 1        | 1.28" 240x240 GC9A01 TFT display with touch. Shipping/tax included above (bought with XIAO, from seeed studio)                                                                     | $19.99                  | display to show the time/music info based on whether something is currently playing
-| **LiPo Battery (3.7V, 2200mAh)** | 1     | Optional, for wireless use; plugs directly into the XIAO battery connector. From [Adafruit](https://www.adafruit.com/product/2011)                                   | $12.50 (incl. tax/shipping) | For wireless use/travel/storage/power outages
+| **LiPo Battery (3.7V, 2200mAh)** | 1     | Optional, for wireless use; plugs directly into the XIAO battery connector. From [Amazon]([https://www.adafruit.com/product/2011](https://www.amazon.com/OXWINOU-Battery-103450-Rechargeable-1-Pack/dp/B0CTQ6VBB6?sr=8-7)) | $9.98 (incl. tax/shipping) | For wireless use/travel/storage/power outages
 | **Flat Right Angle USB-C Cable**   | 1        | [Flatter cable](https://www.amazon.com/Extension-Charging-66W%EF%BC%88Not-compatible-100W-240W/dp/B0CSW5W4LY) for top-mounted port                             | $9.99                   | For charging, needed to get the cable from the top of the device to the bottom without being too obvious or fat.
 | **3D Printed Case**           | 1        |  STL available in `/case`; printed via JLCPCB | Free via #printing-legion | To protect the hardware and keep it in place
 
-**Total: $54.98**
+**Total: $52.46**
 
 ## Firmware Setup and Flashing:
 
