@@ -44,6 +44,10 @@ After about 7 hrs I finished all the firmware and research(for the firmware, not
 
 So then i was making a case when i saw the screen page already had a case design so i downloaded and modified it(my update is in `/case/case.stl`) to fit a battery underneath. i hope it isnt too tall now. but that took a while because i had to move the usb port cutout to be next to the display. 
 
+## Jun 2, 2025 - 0.2 hrs - decreased overall price!
+
+I did some research and lowered the price from $120 to $55. Used a coupon code suggested by @lordbagel42 that saves me $5 on Seeed Studio!
+
 then i was finally done, and i exported it and started the readme. that took a while because i did so much research on pricing and stuff after shipping and then case materials. i chose treated black resin because it looks good in all the images i see online.
 
 Now I'm here, writing this summary of today's progress. I can finally say I'm done and ready to submit. Thanks for taking the time to read/skim these 936 words!
