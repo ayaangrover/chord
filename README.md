@@ -8,14 +8,13 @@ Note: BOM is also available at bom.csv.
 
 | Component| Quantity | Description | Price | Purpose |
 |-------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------|
-| **Seeed Studio XIAO ESP32S3** | 1        | Wi-Fi microcontroller, runs the firmware                                                                                                                        | $23.85 (incl. tax/shipping, from seeed studio) | backbone of the project - uses micropython to run the code
+| **Seeed Studio XIAO ESP32S3** | 1        | Wi-Fi microcontroller, runs the firmware                                                                                                                        | $17.50 (incl. tax/shipping, from seeed studio) | backbone of the project - uses micropython to run the code
 | **Seeed Studio Round Display**| 1        | 1.28" 240x240 GC9A01 TFT display with touch. Shipping/tax included above (bought with XIAO, from seeed studio)                                                                     | $19.99                  | display to show the time/music info based on whether something is currently playing
-| **LiPo Battery (3.7V, 2200mAh)** | 1     | Optional, for wireless use; plugs directly into the XIAO battery connector. From [Adafruit](https://www.adafruit.com/product/2011)                                   | $26.03 (incl. tax/shipping) | For wireless use/travel/storage/power outages
+| **LiPo Battery (3.7V, 2200mAh)** | 1     | Optional, for wireless use; plugs directly into the XIAO battery connector. From [Adafruit](https://www.adafruit.com/product/2011)                                   | $12.50 (incl. tax/shipping) | For wireless use/travel/storage/power outages
 | **Flat Right Angle USB-C Cable**   | 1        | [Flatter cable](https://www.amazon.com/Extension-Charging-66W%EF%BC%88Not-compatible-100W-240W/dp/B0CSW5W4LY) for top-mounted port                             | $9.99                   | For charging, needed to get the cable from the top of the device to the bottom without being too obvious or fat.
-| **Charging Cable**            | 1        | [Fast braided cable](https://www.amazon.com/Anker-Bio-Braided-Charger-iPhone15-15ProMax/dp/B0BHQH89ZQ) for flashing and/or powering the device                 | $14.99                  | To power the device really fast (and flash the firmware)
-| **3D Printed Case**           | 1        |  STL available in `/case`; printed via JLCPCB | $24.80 ($1.80 print + $23 shipping) | To protect the hardware and keep it in place
+| **3D Printed Case**           | 1        |  STL available in `/case`; printed via JLCPCB | Free via #printing-legion | To protect the hardware and keep it in place
 
-**Total: $119.65**
+**Total: $59.98**
 
 ## Firmware Setup and Flashing:
 
