@@ -13,7 +13,7 @@ Note: BOM is also available at bom.csv.
 | **Flat Right Angle USB-C Cable**   | 1        | [Flatter cable](https://www.aliexpress.us/item/3256807298092349.html) for top-mounted port                             | $0.99                   | For charging, needed to get the cable from the top of the device to the bottom without being too obvious or fat.
 | **3D Printed Case**           | 1        |  STL available in `/case`; printed via JLCPCB | Free via #printing-legion | To protect the hardware and keep it in place
 
-**Total: $33.48**
+**Total: ~$35**
 
 ## Firmware Setup and Flashing:
 
