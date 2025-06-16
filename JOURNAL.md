@@ -48,6 +48,9 @@ So then i was making a case when i saw the screen page already had a case design
 
 I did some research and lowered the price from $120 to $55. Used a coupon code suggested by @lordbagel42 that saves me $5 on Seeed Studio!
 
+## Jun 10, 2025 - 1 hr - purchased pieces!
+
+I've been approved and purchased the pieces for my device! They'll be here in about a week.
 then i was finally done, and i exported it and started the readme. that took a while because i did so much research on pricing and stuff after shipping and then case materials. i chose treated black resin because it looks good in all the images i see online.
 
 Now I'm here, writing this summary of today's progress. I can finally say I'm done and ready to submit. Thanks for taking the time to read/skim these 936 words!
